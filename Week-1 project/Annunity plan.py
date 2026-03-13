@@ -1,7 +1,7 @@
 # program to solve Annunity plan problem
 
 # collecting input for payment per period
-P = float(input("Enter Payment per period (PMT): "))
+PMT = float(input("Enter Payment per period (PMT): "))
 
 # collecting input for rate
 R = float(input("Enter Rate (R):"))
